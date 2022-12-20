@@ -46,3 +46,10 @@ def check_func(msg, rand_num, p):
         start_game(msg, rand_num, p)
 
 bot.polling()
+
+
+# git init
+# git add .
+# git commite -m 'comment'
+# git remote add origin sshKey
+# git push origin master
